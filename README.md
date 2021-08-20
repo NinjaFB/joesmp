@@ -1,6 +1,7 @@
 # Joesmp Modpack
 
 A low-tech and magic themed modpack. Designed for minecraft version 1.12.2
+Curseforge version WIP
 
 ## Installed Mods
 * [Vampirism](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
