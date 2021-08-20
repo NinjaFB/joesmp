@@ -29,3 +29,5 @@ A low-tech and magic themed modpack. Designed for minecraft version 1.12.2
 * [LunatriusCore](https://www.curseforge.com/minecraft/mc-mods/lunatriuscore)
 * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 * [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
+* [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft)
+* [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)
