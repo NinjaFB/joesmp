@@ -32,3 +32,6 @@ Curseforge version WIP
 * [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 * [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft)
 * [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)
+* [Valkyrien Skies](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)
+* [Valkyrien Skies World](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies-world)
+* [Valkyrien Skies Control](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies-control)
