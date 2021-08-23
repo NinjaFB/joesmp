@@ -35,3 +35,6 @@ Curseforge version WIP
 * [Valkyrien Skies](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)
 * [Valkyrien Skies World](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies-world)
 * [Valkyrien Skies Control](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies-control)
+* [Tinkers' Complement](https://www.curseforge.com/minecraft/mc-mods/tinkers-complement)
+* [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)
+* [Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
